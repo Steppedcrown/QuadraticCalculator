@@ -1,3 +1,4 @@
+#My quadratic calculator. Steppedcrown
 a = -0.75
 b = 0
 c = 0
