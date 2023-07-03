@@ -1,8 +1,11 @@
 #My quadratic calculator. Steppedcrown
 '''
+New Comment
+
 a, b, and c are a, b, and c in the quadratic and p is the power x is raised to
 this prints the vertex and the x points 1 and 2 units above and below the vertex
 the final print statement gives the y of a specific x value you input
+
 '''
 a = -0.75
 b = 0
